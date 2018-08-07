@@ -4,7 +4,7 @@
 *  Fecha: Agosto 6/2018
 *  Plazo máximo para enviar enlace para clonar el repositorio: Agosto 7/2018 - 11:59 am
 *  Estudiante1: Cesar Camilo Correa Cardona
-*  Fecha del ultimo Commit en GitHub: Agregue la fecha y hora del ultimo Commit (aproximada)
+*  Fecha del ultimo Commit en GitHub: Agosto 7/2018 - 11:35 am
 *
 
 *  Primera parte: 
