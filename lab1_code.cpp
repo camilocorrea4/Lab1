@@ -4,7 +4,7 @@
 *  Fecha: Agosto 6/2018
 *  Plazo máximo para enviar enlace para clonar el repositorio: Agosto 7/2018 - 11:59 am
 *  Estudiante1: Cesar Camilo Correa Cardona
-*  Fecha del ultimo Commit en GitHub: Agosto 7/2018 - 11:35 am
+*  Fecha del ultimo Commit en GitHub: Agosto 7/2018 - 11:49 am
 *
 
 *  Primera parte: 
@@ -32,7 +32,6 @@
 */
 
 #include <iostream>
-#include <wchar.h>
 #include <locale.h>
 
 using namespace std;
@@ -95,7 +94,7 @@ bool checkDate(Calendario){
 
 int main()
 {
-    setlocale(LC_ALL,"");
+    setlocale(LC_CTYPE, "Spanish");
     cout<<endl<<"##### COMPROBADOR DE FECHAS ########"<<endl;
     cout<<"Ingrese el dia: "<<endl;
     cin>>dia;
