@@ -3,9 +3,8 @@
 *  Prof: Juan Camilo Correa Chica
 *  Fecha: Septiembre 10/2018 - Septiembre 17/2018 - Septiembre 24/2018
 *  Plazo máximo para enviar enlace para clonar el repositorio: Septiembre 10/2018 11:00pm
-*  Estudiante1: Nombres y apellidos completos
-*  Estudiante2: Nombres y apellidos completos (Opcional, puede trabajar individualmente)
-*  Fecha del ultimo Commit en GitHub: Agregue la fecha y hora del ultimo Commit (aproximada)
+*  Estudiante1: Cesar Camilo Correa Cardona
+*  Fecha del ultimo Commit en GitHub: Septiembre 10 - 2018 10:16 (aproximada)
 *
 * 1. Diseñe e implemente una clase llamada "Libro" que tiene los siguientes atributos privados:
 *	Un atributo de tipo entero para el codigo de catalogo del libro
